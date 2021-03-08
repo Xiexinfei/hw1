@@ -8,7 +8,7 @@ loop for every column "1" for target_data, to remove the rows whose column1(WDSD
 loop for the specific station to find its maximum and minimum(compare number, store the bigger/smaller one to variables), 
 calculate the maximum range(if there is only one or no number(removed previously because of -99.000 and -999.000) remained, then range = 0, print "None"), 
 and store the maximum range into the column1 of the output array "out"(column0 is station ID), 
-last, print "out" out. 
+last, print "out" out. (more details are in my code's comments)
 
 (2)result:
 
